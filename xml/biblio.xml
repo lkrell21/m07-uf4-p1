@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <books>
     <book>
         <author>Isaac Asimov</author>
@@ -8,4 +8,4 @@
         <author>William Shakespeare</author>
         <title>Hamlet</title>
     </book>
-</books>
+<book/><author>Agata Christie</author><title>un cadàver a la biblioteca</title></books>
